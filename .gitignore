@@ -2,3 +2,5 @@
 /__pychache__/
 hw4/data/train
 hw4/data/test
+hw4/src/main.py
+hw4/data
